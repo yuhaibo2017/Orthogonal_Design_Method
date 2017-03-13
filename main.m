@@ -1,5 +1,5 @@
 % ------------------------------------------------------------------------
-% The main function of the orthogonal design method
+% The demonstration  function of the orthogonal design method
 % ------------------------------------------------------------------------
 % Note: This is not a complete orthogonal design tables, only the cases that
 %        all factors have the same levels are considered.
